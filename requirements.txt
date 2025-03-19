@@ -1,0 +1,7 @@
+dotenv==0.9.9
+pandas==2.2.3
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.39
+streamlit==1.43.2
+vlgi-datasets==0.3.0
+openpyxl==3.1.5
