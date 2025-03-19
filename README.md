@@ -17,7 +17,7 @@ O **DataHub** é um hub de gerenciamento de dados desenvolvido com **Streamlit**
 ## Instalação e Configuração
 1. Clone o repositório:
    ```bash
-   git clone git@github.com:ericsonmatheus/data_hub.git
+   git clone git@github.com:ericsonmatheus/datahub.git
    cd datahub
    ```
 2. Crie e ative um ambiente virtual (recomendado):
